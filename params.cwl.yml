@@ -1,0 +1,7 @@
+jsonl_file:
+  class: File
+  path: tests/hf_datasets_1000.jsonl
+n_neighbors: 10
+min_dist: 0.2
+n_clusters: 5
+plot_size: "10,8"
