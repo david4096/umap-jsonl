@@ -1,0 +1,7 @@
+version: 1.2
+tools:
+  - subclass: CWL
+    name: umap-jsonl
+    primaryDescriptorPath: /umap-jsonl.cwl  # absolute path
+    authors:
+      - orcid: 0000-0001-6683-2270
