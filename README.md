@@ -66,6 +66,8 @@ git clone https://github.com/david4096/umap-jsonl.git
 cd umap-jsonl
 pip install -e .
 
+```
+
 Running Tests
 
 To run tests, use:
