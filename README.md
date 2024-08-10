@@ -1,5 +1,8 @@
 # UMAP-JSONL
 
+![output](https://github.com/user-attachments/assets/942e4e7b-0382-42bc-8fa3-1fca1b007426)
+
+
 **UMAP-JSONL** is a command-line tool for generating UMAP plots and KMeans clustering from JSONL data files. This tool leverages UMAP for dimensionality reduction and KMeans for clustering, producing customizable visualizations in PNG format.
 
 ## Features
