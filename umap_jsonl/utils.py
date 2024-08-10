@@ -39,5 +39,5 @@ def default_config():
         'n_components': 2,
         'n_clusters': 3,
         'output_file': 'output.png',
-        'plot_size': (8, 6)
+        'plot_size': "8,6"
     }
