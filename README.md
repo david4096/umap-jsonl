@@ -40,7 +40,15 @@ Command-Line Arguments
 
 ```
 
-Example
+Basic usage, provide a .jsonl file as a positional argument
+
+```sh
+
+umap-jsonl tests/hf_datasets_100000.jsonl
+
+```
+
+Advanced usage, set details of umap algorithm, change plot size, etc.
 
 ```sh
 
